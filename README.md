@@ -75,10 +75,12 @@ http://www.ghostchina.com/download/
 
 等待几秒钟后, 在浏览器中打开 `http://<host>` 博客或者 `http://<host>/ghost` 博客后台。
 
-## github
+## 代码创建和维护
 
-[github](https://github.com/xiongjungit/docker-ghost)
+* QQ: 479608797
 
-## dockerhub
+* 邮件:  fenyunxx@163.com
 
-[dockerhub](https://hub.docker.com/r/dockerxman/)
+* [github](https://github.com/xiongjungit/docker-ubuntu)
+
+* [dockerhub](https://hub.docker.com/r/dockerxman/)
