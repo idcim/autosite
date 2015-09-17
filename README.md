@@ -81,6 +81,6 @@ http://www.ghostchina.com/download/
 
 * 邮件:  fenyunxx@163.com
 
-* [github](https://github.com/xiongjungit/docker-ubuntu)
+* [github](https://github.com/xiongjungit/docker-ghost)
 
 * [dockerhub](https://hub.docker.com/r/dockerxman/)
